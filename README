@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1009
+
+There's a filetype srec for S-record in filetype.vim. But no corresponding ftplugin and syntax, now, here it is.
+The color schema is based on $VIMRUNTIME/syntax/hex.vim
